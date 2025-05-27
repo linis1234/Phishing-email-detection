@@ -1,12 +1,12 @@
 # Phishing-email-detection
-#Sample Email:
+__Sample Email:__
 ![image](https://github.com/user-attachments/assets/a78555ba-d7c9-426d-984a-422398805ccb)
 Email Subject: Secure Your WellsFargo Online Key
 Sender Name: Wells Fargo
 Sender Email: inmail-hit-reply@linkedin.com
 Date: Sat 10/22
 
-#Indicators of Spoofing
+__Indicators of Spoofing__
 
 Email address: inmail-hit-reply@linkedin.com
 
