@@ -6,6 +6,8 @@ Sender Name: Wells Fargo
 Sender Email: inmail-hit-reply@linkedin.com
 Date: Sat 10/22
 
+
+
 __Indicators of Spoofing__
 
 Email address: inmail-hit-reply@linkedin.com
