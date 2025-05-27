@@ -1,3 +1,4 @@
 # Phishing-email-detection
 Sample Email:
-[media pointer="file-service://file-Q8Kt4V1NPMETXTFmx5aa1Q"]
+![image](https://github.com/user-attachments/assets/a78555ba-d7c9-426d-984a-422398805ccb)
+
